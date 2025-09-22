@@ -61,3 +61,17 @@ Each funnel is a self-contained playbook with a defined target, a core problem t
 * **Technology Stack:** Hugo is used for speed, security, and zero maintenance. Cloudflare/GitHub Pages for free, automated hosting. We invest time in generating revenue, not managing infrastructure.
 * **Content Strategy:** All content serves the playbooks. Case studies are framed as business cases with quantified ROI. Blog posts are written to attract our target personas by solving their specific problems.
 * **Mindset:** This is not a resume. It is a machine.
+
+## 5. Implementation Plan: The Component Maps
+
+This project prioritizes speed and leverage. We use the pre-built components from the Hugoplate theme to assemble pages quickly, focusing effort on high-impact copy rather than custom development.
+
+The `_planning/` directory contains the tactical build plan for the website. It is not part of the final deployed site. Its purpose is to translate the strategy outlined in this charter into a concrete assembly guide.
+
+-   **`_planning/_component-inventory.md`**: A list of all available, pre-styled components in the Hugoplate theme. This is our "parts list." Before building, we identify the tools we have.
+-   **`_planning/home.md`**: The component map and content plan for the main Triage Hub page.
+-   **`_planning/ux.md`**: The component map and content plan for the UX & Product Systems funnel.
+-   **`_planning/techOps.md`**: The component map and content plan for the Technical Operations funnel.
+-   **`_planning/bizSystems.md`**: The component map and content plan for the Business Systems & Acquisition funnel.
+
+Each file maps out the top-to-bottom sequence of components needed to construct the page, along with the core messaging and offers for each block. This ensures a rapid, strategy-aligned build.
