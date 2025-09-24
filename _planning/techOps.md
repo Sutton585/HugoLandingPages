@@ -4,7 +4,7 @@ This plan outlines the conversion of the current Notion page content into a fina
 
 ## Process
 1. Review Source Content: Analyze the current version of the page as it exisits in our current Notion version of the landing page. (`## Current Notion Version`)
-2. Incorporate Feedback: Integrate the strategic improvements and suggestions for the newer version. (`## Proposed improvemented version to consider`)
+2. Incorporate Feedback: Integrate the strategic improvements and suggestions for the newer version. (`## Proposed improved version to consider`)
 3. Develop a Rapid Draft: Adapt the existing copy for a quick launch, focusing on the most critical messaging for our goal and intended personas (leverage-first, use 80/20 rule). 
 4. Map Page Structure: Outline the page by sequencing the required Hugoplate design components. (`## Outline with Prebuilt Design Components`)
 5. Build and Deploy: Assemble the final page ready for Hugo publishing.(`## Full Version`)
@@ -113,7 +113,7 @@ This plan outlines the conversion of the current Notion page content into a fina
     > start of section: footer
     ©2025 David Sutton
 
-## Proposed improvemented version to consider
+## Proposed improved version to consider
 
     
     # Technical Operations Page: Strategic Layout & Analysis
