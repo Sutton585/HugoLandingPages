@@ -19,112 +19,221 @@ This plan outlines the conversion of the current Notion page content into a fina
 
 ## Current Notion Version
 
+
     
-    Page: More technical owner or founder persona Landing Page
+    Page: Less technical owner-operator persona Landing Page (Targetting smaller home services local SMBs that are drowning in ops, and underdigitized. I want to help them free themselves from the choas, impress them, then if they're looking for a retirement path, pitch seller-financed buyout. By that time, I'm hoping to have systems in place to make it more hands-off and a more passive income stream.)
     (notes and sections are in quote blocks)
     
-    > begin of hero section with title (qualify the lead, is this the right persona?)
+    > begin of hero section with title
     > 
     
-    # Scale Without Spinning Plates
+    # Founders, Owners & Operators
     
-    Growth exaggerates existing alignment issues, compounding over time.
+    ### *Your grit keeps your business running.
     
-    Priorities start to shift, timelines drift, and every week feels more reactive than the last.
+    What happens when you aren’t there?**
     
-    From SMBs and startups to enterprise like Apple, Verizon, & Xerox, I help scaling teams regain control.
+    When everything goes through you, your hours are the bottle-neck for business growth, and time off is impossible.
+    
+    I create low-maintenance systems to enable business growth and ease the pressure on you.
     
     **→ [email](mailto:DavidSutton585@gmail.com)    → [linkedin](http://linkedin.com/in/sutton585/)**
     
-    ---
-    
-    > start of next section: services/features/etc. (here's how i help, services i offer, how i can help in different ways.) this might need to be more of a process display that mirror's the one in the other persona for less-techincal owner operators. recycle one templatable process or system, and sell it two differnt ways. In this persona, i think it makes more sense to call out alternative arrangements like fractional roles or retainer roles, that might not make sense in the other persona.
+    > End of hero/cta section
     > 
-    
-    # Growth doesn’t have to feel chaotic
-    
-    I map the chaos and quietly fix blockers so you won’t have to keep playing catch-up.
-    
-    ### Clarity sprint
-    
-    *Not sure where to start?*
-    
-    A one-week audit allows me to surface the friction and find leverage points.
-    
-    ### Operational Health
-    
-    *Spinning wheels? Scattered tools?*
-    
-    Streamline systems, simplify tooling, automation & AI.
-    
-    ### Scalable Support
-    
-    *High level support without full-time hire? Fractional and retainer support available*
-    
-    Gain a second brain, a quiet background fixer.
     
     ---
     
-    > start of next section: CTA for if this leader/founder character knows what they want, and what they want is specifically in the product and UX domain, so i want to funnel them to that landing page/portfolio.
+    > start of next section: card to qualify the lead (who the lead is)
     > 
     
-    # Got a product idea or platform to build?
+    # Why you’re here
+    
+    - You built something that *works well* because you work *hard*.
+    - You lead from the front; everything is slower when you aren’t hands-on.
+    - If someone suggests shiny new tech and buzzwords, you're tuning them out.
+    - You want time for yourself and a business that runs smooth without you having to play babysitter.
+    
+    ---
+    
+    > start of next section: explain services (how we can help)
+    seperated into three main parts of the process. I interview and observe their operations to find pain points an inefficiencies, make my observations about bottle necks and weak links, then develop systems and tools to re-enforce their processes. Automation, ai, tech, whitelabel solutions, hardware solutions, etc. The idea is that this persona type is underdigitized and not technical, maybe even skeptical of tech being introduced. We want to make sure they see that we aren't mindlessly throwing confusing tech at them that will require lots of onboarding time and adjustments to their system. They see it as "if it ain't broke, don't fix it", but they don't see that it IS broke, they're drowning. if i pitch tech, they tune out. i need them to know it's only enough tech to support what they're already doing, not tech to overhaul everything they know and trust.
+    > 
+    
+    # How It Works
+    
+    We start with a free audit to find what's slowing you down. Then I work in the background clearing the way so you can stay focused on what you do best.
+    
+    ### 1. Hunt down the trouble-makers
+    
+    Mapping out the approvals, processes, and tasks that can pile up and create blocks.
+    
+    ### 2. What breaks first?
+    
+    Finding weak-links where missing people, messy tools, or unclear steps can create problems.
+    
+    ### 3. Re-enforcement
+    
+    Keep everything going while I clear the path; quiet adjustments so you can move faster, hit harder and build momentum.
+    
+    > start the next section: CTA for the to contact me and set up a call or something. I might need to develop better lead magnet ideas for this persona type. Maybe an intake form that surfaces some low hanging fruit problems they're having that I know I can easily address with simple automations and whitelabel solutions.
+    > 
+    
+    # Fix what's breaking. Protect what's working.
+    
+    No buzzwords. No big overhaul. Just smart fixes to free you up.
+    
+    *Request a free initial audit; my work won't interrupt yours.*
+    
+    ### **→ [email](mailto:DavidSutton585@gmail.com) → [linkedin](http://linkedin.com/in/sutton585/)**
+    
+    ---
+    
+    > start of next section: CTA for when a different target persona type has been routed to this page instead of their dedicated landing page. Whether it's the more technically-aware founder/leader or the UX-focused persona, I put this CTA here so they will see that I can hepl them too, not just the persona this landing page is meant for, it routes them to my UX landing page and portfolio since that has clear work samples and such.
+    > 
+    
+    # Got a product idea or tech platform to build?
     
     Working on a product, tech service, app, website? I can help! I've led design and systems strategy for startups, enterprise platforms, and specialize in scalable ops and MVP development.
     
-    *Want to see how I've turned early ideas into scalable solutions?*[learn more](https://www.notion.so/link_to_ux_portfolio)
+    *Want to see how I've turned early ideas into scalable solutions?*
+    
+    ---
+    
+    > start of testimonial section
+    > 
+    
+    # What others are saying
+    
+    > image of jennifer
+    > 
+    
+    "Dave has a special ability to build communities of designers and help others create cool things. I have benefited a ton from his  User Experience group Upstate UX. I feel lucky to know someone who creates such amazing resources for the community.”
+    
+    **Jennifer Kotler**
+    Senior UX Designer @ Space Telescope Institute
+    
+    > image of sean
+    > 
+    
+    "David has proven to be a Great team player, coordinator, and facilitator in organizing Upstate UX. He also formed and successfully ran the Crashtest group, and was absolutely instrumental in helping it achieve the success and praise it now sees.”
+    
+    **Sean Boyle**
+    Senior Lecturer @ Rochester Institute of Technology
     
     ---
     
     > start of new section: brief "work history" section called "recent wins" that is almost like the job history section of a resume for context and authority. might be worth deleting this section, it might be redundant. might be worth using "blog posts" here for similar effect. unsure. I have a slightly different version of this section on each landing page, but it seems messy to maintain.
-    Current idea: take this part of each landing page, combine into one master version, include only on the UX page as smaller individual "case studies".
+    Current idea: take this part of each landing page, combine into one master version, include on UX page as smaller "case studies".
     > 
     
+    # Featured Work
+    
+    Examples of real impact: Smooth business processes, intuitive products and measurable results.
+    
+    ### Monroe Community College - Healthcare Admin Overhaul
+    
+    (Pro Bono Consult)
+    
+    **Challenges:**
+    
+    A tangled mess of conflicting spreadsheets was draining time and slowing down a nursing certification program at Monroe Community College. So much of their program depended on these files, but there were different versions for different instructors and it wasn’t always clear when they were out-of-date.
+    
+    **Solutions:**
+    
+    - Audited, rebuilt and automated the tedious workflows that were the real trouble-makers.
+    - Centralized the documentation and input for all grading, class scheduling, staff communications, enrollment updates and more.
+    
+    **Results:**
+    
+    Saved hours of admin time, reduced errors, and left them with a scalable system that lives on today.
+    
+    ### WAE – Product Design & Ops for Rapid Growth
+    
+    **Challenges:**
+    
+    A fast-growing startup faced UX debt, misaligned teams, and chaotic scheduling workflows.
+    
+    **Solutions:**
+    
+    - Rolled out a dual-track DesignOps system.
+    - Rebuilt scheduling flows using embedded user testing.
+    - Created reusable, modular UX documentation for scale.
+    
+    **Results:**
+    
+    - 2× faster job scheduling.
+    - +44% user satisfaction.
+    - Scalable systems now in place across teams.
+    
+    ### PepsiCo + MSM – Gamification Systems for Live Engagement
+    
+    **Challenges:**
+    
+    Clients needed interactive tools for marketing and onboarding in high-stakes environments.
+    
+    **Solutions:**
+    
+    - Developed real-time interactive tools for brand activations.
+    - Designed gamified onboarding flows using rapid design sprints.
+    
+    **Results:**
+    
+    - Boosted event engagement and user retention.
+    - Seamless onboarding across multiple platforms.
+    
+    ### Xerox – Enterprise UX/Product Dev Modernization
+    
+    **Challenges:**
+    
+    Slow, siloed feedback cycles and a lack of scalable design/dev alignment.
+    
+    **Solutions:**
+    
+    - Rolled out modular prototyping and handoff systems.
+    - Integrated design ops across teams to streamline feedback loops.
+    
+    **Results:**
+    
+    - Cut design-to-dev lag by 80% with rapid prototype-driven user-testing cycles.
+    - Unified product pipelines.
+    - Reduced wasted effort across teams.
+    
+    ### RIT – Founder & Community Builder Addressing Resource Gaps
+    
+    **Challenges:**
+    
+    No infrastructure for design testing or critique in the curriculum.
+    
+    **Solutions:**
+    
+    - Created "Crashtest," a scalable UX testing group embedded into academic programs.
+    - Built templates and onboarding flows for repeatable student involvement.
+    
+    **Results:**
+    
+    - Supported hundreds of students across disciplines.
+    - Adopted into RIT’s formal curriculum.
+    - Still running independently under faculty leadership.
+    
     ---
     
-    ## Recent Projects
-    
-    ### WAE - Ideation to MVP and Automation
-    
-    - New feedback loops with user-base and iterative design/dev reducing workflow friction by 50% and user satisfaction by 44%
-    - New product and systems designed from MVP, scaled product, dev and design teams and structured ops.
-    
-    **→ [Read more]**
-    
-    ### Xerox - Blueprint to Execution Clarity
-    
-    - Legacy enterprise SMB product into award-winning mobile UI/UX
-    - Improved interdepartmental collaborative processes for offshore dev coordination
-    - Modernized user-testing and data-driven product design processes
-    
-    **→ [Read more]**
-    
-    ### MSM + PepsiCo - Pressure-Tested Innovation
-    
-    - Built immersive, high-stakes systems in weeks for launch-critical activations.
-    - Multi-platform attention-grabbing interactive experiences.
-    
-    **→ [Read about MSM’s lead-gen experience]**
-    
-    **→ [Read about PepsiCo’s launch experience]**
-    
-    ---
-    
-    > start of section: footer
+    > start section: footer
     ©2025 David Sutton
-    > 
+    >
 
 
 ## Proposed improved version to consider
 
+    - less-techy SMB owner operator v2
     
-    # Technical Operations Page: Strategic Layout & Analysis
+    # Business Systems Page: Strategic Layout & Analysis
     
-    ## Page: /technical-ops
+    ## Page: /business-systems (The Acquisition Funnel)
     
     ### **Strategic Function**
     
-    This is a high-value consulting funnel targeting technically proficient leaders (CTOs, VPs of Eng, founders). It positions you as a peer-level operator who can diagnose and solve complex operational problems they understand but lack the bandwidth to address. The language is direct, confident, and focused on ROI, efficiency, and eliminating the operational drag that slows down development and burns out teams. The goal is to convert them into a paid diagnostic engagement (a "Clarity Sprint") that leads to a larger project, fractional, or retainer role.
+    This page's sole purpose is to attract and convert overwhelmed, non-technical SMB owner-operators. It is an **acquisition funnel**. The strategy is to build trust by demonstrating a deep understanding of their specific operational pain—being the bottleneck. The messaging is entirely non-technical and empathetic. The goal is to get them to agree to a low-friction "Quiet Audit," which serves as your entry point for observing their operations, delivering a quick win, and identifying a potential path to a seller-financed buyout.
     
     ---
     
@@ -133,134 +242,99 @@ This plan outlines the conversion of the current Notion page content into a fina
     ### **Section 1: Hero**
     
     - **Component Type:** Hero Section
-    - **Intention:** To hook the visitor with a high-level problem they immediately recognize: the chaos of scale. It validates their experience and positions you as a credible expert who has solved this problem at the highest levels.
+    - **Intention:** To immediately and empathetically state the core problem. The copy correctly identifies the owner's "grit" as both their greatest asset and their biggest liability. It hooks them by acknowledging their hard work while simultaneously highlighting the trap it has created.
     
     ---
     
-    # Scale Without Spinning Plates
+    # Your business runs on your grit. What happens when you step away?
     
-    Growth exaggerates existing alignment issues, compounding over time. Priorities shift, timelines drift, and every week feels more reactive than the last.
+    When everything goes through you, your hours are the bottleneck for business growth, and time off is impossible. I create quiet, low-maintenance systems that free you up.
     
-    From startups to enterprise teams at Apple, Verizon, & Xerox, I help technical leaders regain control of their operations.
+    **[Button: Start Your Free "Quiet Audit" →]**
     
-    **[Button: Start a 1-Week Clarity Sprint →]**
-    
-    > NOTE: The headline is strong. I've tweaked the sub-headline to speak directly to "technical leaders" and replaced the weak email/linkedin CTA with a direct, compelling button that introduces your primary offer immediately. This respects their time and gets straight to the point.
+    > NOTE: The copy is perfect—empathetic and direct. I've replaced the generic email/linkedin links with a single, clear button CTA that drives the visitor to the page's primary offer. This is the first and most important action they can take.
     > 
     
     ### **Section 2: The Problem**
     
-    - **Component Type:** Empathy / Pain Point Section
-    - **Intention:** To build immediate credibility by articulating the specific, nuanced problems that technical leaders face. This shows you're not a generic consultant; you understand their world.
+    - **Component Type:** Empathy / Qualification Section
+    - **Intention:** To make the visitor feel seen and understood. This section confirms they are in the right place by describing their exact situation in their own terms. It builds trust by showing you "get it" before you even propose a solution.
     
     ---
     
-    ## Growth Doesn’t Have to Feel Chaotic
+    ## Does This Sound Familiar?
     
-    When you're scaling fast, the real problems aren't in the product; they're in the friction between the people building it.
+    - [x]  You built something that works *well* because you work *hard*.
+    - [x]  You lead from the front, so everything slows when you aren’t hands-on.
+    - [x]  You immediately tune out anyone suggesting tech buzzwords or overhauls.
+    - [x]  You want a business that runs smoothly without you playing babysitter.
     
-    - **Your best engineers are bogged down** in endless status meetings and cross-team dependencies instead of shipping features.
-    - **Your CI/CD pipeline is slick, but your pre-dev workflow**—from idea to ticket—is a black hole of competing priorities.
-    - **"Tech debt" has become the excuse** for a lack of clear process, leading to duplicated work and preventable bugs.
-    
-    > NOTE: This new section is critical. It replaces the vague "Growth doesn't have to feel chaotic" section with sharp, specific pain points. A CTO or VP of Eng will read these and think, "This person gets it." This is how you earn the right to propose a solution.
+    > NOTE: This is an excellent use of a "checklist" component. Renaming it "Does This Sound Familiar?" is more direct and engaging than "Why you're here." This content perfectly qualifies your target persona. No changes to the copy are needed.
     > 
     
-    ### **Section 3: The Diagnostic Process**
+    ### **Section 3: The Solution**
     
     - **Component Type:** Process Section
-    - **Intention:** To present your method as a structured, logical system. This appeals to an engineering mindset. It's not "consulting"; it's a repeatable process for identifying and eliminating inefficiency.
+    - **Intention:** To explain your process in the simplest, most non-threatening terms possible. This section demystifies what you do and emphasizes that the process is low-impact on their day-to-day work.
     
     ---
     
-    # I Find and Fix the Blockers
+    # How It Works
     
-    I map the chaos and implement quiet fixes to the system itself, so your team can focus on building, not catching up.
+    We start with a free audit to find what's slowing you down. Then, I work quietly in the background to clear the path, so you can stay focused on what you do best.
     
-    ### **1. Map the Friction**
+    ### **1. Find the Bottlenecks**
     
-    We start by tracing the path of work from concept to deployment, identifying every handoff, meeting, and tool that creates drag on the system.
+    First, I map out the approvals, processes, and daily tasks that pile up and get stuck waiting for you.
     
-    ### **2. Isolate the Bottleneck**
+    ### **2. Identify the Weak Links**
     
-    Using that map, we pinpoint the single biggest cluster that, if addressed, can have the greatest positive impact on velocity and morale.
+    Next, we find the exact points where a missing person, messy tool, or unclear step could cause a problem.
     
-    ### **3. Deploy a Systemic Fix**
+    ### **3. Quietly Reinforce**
     
-    I deliver a durable, low-maintenance process improvement (Streamlined tooling, adjusted communication rituals, or a targeted AI/automation, etc.) that solves the problem without adding complexity. 
+    Finally, I implement simple, durable fixes. No big overhauls, just smart adjustments so you can move faster and build momentum without disruption.
     
-    > NOTE: This reframes your service into a clear, 3-step diagnostic process. It's the same core idea as on the SMB page, but reskinned with language that appeals to a technical leader ("Map the Friction," "Deploy a Fix"). It shows you have a repeatable, non-random methodology.
+    > NOTE: This 3-step process is clear and effective. The language ("Hunt down trouble-makers," "What breaks first?") is strong and non-corporate. It perfectly communicates your value without using a single word of tech jargon.
     > 
     
-    ### **Section 4: The Offer**
+    ### **Section 4: The Proof (replace with Jer’s Testimonial)**
     
-    - **Component Type:** Primary CTA / Lead Magnet
-    - **Intention:** To productize your entry-level offering. The "Clarity Sprint" is a perfect offer for this persona: it's time-bound, outcome-focused, and low-risk. It's a small, paid engagement that proves your value and builds the case for a larger one.
+    - **Component Type:** Case Study
+    - **Intention:** To provide a relatable example of your work. The key is that the proof must resonate with the target persona. A story about escaping spreadsheet chaos is far more powerful here than a story about enterprise software development.
     
     ---
     
-    ## The 1-Week Clarity Sprint
+    ## Case Study: Escaping Spreadsheet Chaos
     
-    Not sure where the real bottleneck is? Let's find it. In one week, I will conduct a quiet audit of your team's operations. You get:
+    **The Problem:** A vital healthcare certification program was managed through a patchwork of conflicting Google Sheets, causing frequent errors, wasted time, and staff burnout.
     
-    - A **Friction Map** of your current development lifecycle.
-    - A concise, no fluff report identifying the **Top Leverage Points** for immediate improvement.
-    - An **Actionable Roadmap** with clear next steps.
+    **The Fix:** I audited and rebuilt their internal operations with scalable logic. I automated retest scheduling, grading, and tracking using simple, centralized tools they already had.
     
-    **[Button: Schedule Your Clarity Sprint →]**
+    **The Result:** Slashed instructor admin time, eliminated costly errors, and delivered a reusable, scalable system for future cohorts without a complicated tech overhaul.
     
-    > NOTE: This dedicated section elevates your "Clarity sprint" from a feature into the primary product of this page. It clearly defines the deliverables, which is crucial for this audience. It's a tangible, high-value offer that a busy leader can easily approve.
+    > NOTE: I have ruthlessly cut the other case studies. For this persona, examples from Xerox, PepsiCo, and even WAE are irrelevant and potentially intimidating. They create a disconnect. The MCC story is perfect because it's about fixing a real-world administrative mess—a problem this persona understands intimately. You must get more testimonials and case studies from this type of client.
     > 
     
-    ### **Section 5: The Proof (updated v2)**
+    ### **Section 5: The Offer**
     
-    - **Component Type:** Testimonial & Mini Case Study Hybrid
-    - **Intention:** To provide undeniable, peer-level proof that you solve complex operational problems. We'll frame the testimonial with a clear headline that states the business outcome, making the story's value instantly clear to a busy leader.
+    - **Component Type:** Lead Magnet / Final CTA
+    - **Intention:** This is the page's climax. It clearly restates the value proposition and directs the user to a single, compelling action: requesting the free audit.
     
     ---
     
-    ## Proof: Unblocking Parallel Workstreams at Xerox
+    # Fix what's breaking. Protect what's working.
     
-    > "David and I served on a design team to develop a Human-Centered User Interface for a suite of new Xerox products. During the project, David could always be counted on to deliver unique solutions. In one instance, I needed the prototype to be in a specific state for user testing while other teammates needed to interact with it simultaneously to administer bug-fixes.
-    > 
-    > 
-    > **David was able to program the prototype in a way that let me conduct user testing without interfering with the updates to the prototype.** He is an outstanding problem solver who would make an extraordinary addition to any team."
-    > 
-    > **Trish Terrance**
-    > Experience Design Group, Xerox
-    > 
-    - **The Operational Impact:** This solution eliminated a critical bottleneck, allowing research and development workstreams to operate in parallel instead of sequentially, directly accelerating the feedback loop and time-to-market.
+    No buzzwords. No big overhaul. Just smart, quiet fixes to free you from the daily grind. My work won't interrupt yours.
     
-    > NOTE: This hybrid format is your most powerful option.
-    > 
-    > 1. **The Headline:** "Unblocking Parallel Workstreams" immediately frames the story as an operational win that a CTO or VP of Eng will recognize and value.
-    > 2. **The Testimonial:** Trish's own words provide credible, third-party validation of your specific problem-solving skills. I've bolded the key sentence that describes the core action and result.
-    > 3. **The Impact Statement:** This final bullet point explicitly translates the story into the language of your target persona—it's not just a cool technical trick; it's a solution that impacts "feedback loops" and "time-to-market."
-    > 
-    > This combination is far more persuasive than either a testimonial or a case study alone.
-    > 
+    **[Button: Request Your Free Initial Audit →]**
     
-    ### **Section 5: The Proof (new mini case study v1)**
-    
-    - **Component Type:** Results / Mini Case Study Section
-    - **Intention:** To provide concrete, quantifiable proof that your process works. This section should focus on operational metrics, not just UX outcomes.
-    
-    ---
-    
-    ## Quantifiable Impact
-    
-    ### **Xerox: From Blueprint to Execution Clarity**
-    
-    - **The Problem:** Slow, siloed feedback cycles between design and offshore development teams created a 6+ week lag, choking momentum.
-    - **The Fix:** I audited the entire pipeline and rolled out a modular design and handoff system, standardizing feedback loops and testing resources.
-    - **The Result:** Cut the design-to-dev feedback cycle by **80%**, enabling faster shipping with less rework.
-    
-    > NOTE: I've removed the generic list of projects. For this page, you need one hyper-relevant proof point. The Xerox story is perfect when framed this way—it's a clear operational win. You need to get more proof points like this that speak to velocity, efficiency, and reduced friction.
+    > NOTE: This is the final call to action. It should lead to a simple intake form or quiz (as you mentioned) that asks a few targeted questions about their business operations. This "productizes" your audit, makes it feel official, and gives you valuable intel before your first conversation. The weak email/linkedin CTA has been replaced with a strong, offer-driven button.
     > 
     
     ### **Removed Sections & Rationale**
     
     - **Cross-Sell CTA ("Got a product idea...?"):**
-        - **Reason for Removal:** Funnel leak. This page is for leaders with an *existing* team who are struggling with *operational scale*. Pitching them on ideation for a new product is a completely different value proposition and dilutes the focus of this page.
-    - **Recent Projects (Generic List):**
-        - **Reason for Removal:** The proof on this page must be highly specific to operational challenges. A generic list of UX-focused projects weakens your position as an ops specialist. The single, focused, and quantifiable Xerox example is far more powerful for this audience than a scattered list.
+        - **Reason for Removal:** This is a critical funnel leak. The home page already triaged the visitor here for a specific reason. Offering them an exit to another page shows a lack of confidence and confuses the user journey. This page must have a single focus: converting the SMB owner.
+    - **Testimonials (from UX/Academic World):**
+        - **Reason for Removal:** These testimonials are completely misaligned with the target persona. A skeptical SMB owner will not be persuaded by praise from a UX designer or a university lecturer. In fact, it may actively harm your credibility by positioning you as part of the "tech world" they distrust. You **must** get testimonials from other business owners, even if they are small pro-bono projects. Until then, it is better to have no testimonials on this page than the wrong ones.
