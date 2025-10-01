@@ -18,8 +18,9 @@ Each funnel is a self-contained playbook with a defined target, a core problem t
 
 ### Playbook #1: The UX & Product Systems Funnel (`/ux`)
 
-- Target Personas: 
+- Target Persona Types: 
     - The Scaler (Hiring Managers, VPs of Product/UX, Founders). They are trying to build or fix a product development team and are frustrated by slow processes, inconsistent output, and a lack of strategic leadership. 
+    - The HR Gatekeeper: This may be someone in HR, recruiter, "talent acquisition", etc. Since I'm currently applying for UX-related jobs, all those jobs will require that I submit a link to my "UX Portfolio". This page is pulling double duty and serving as a UX portfolio AND a landing page for my services. If I'm applying to a job and send them this page as my portfolio, there's really two primary kinds of personas that we need to optimize for during their process for staffing. Whether it's an application I submitted or just a recruiter spamming me, the first level is the HR gatekeeper. They aren't technical usually, they're just looking to see if I look like I'm a suitable enough prospective candidate that it's worth passing my information along to the ACTUAL hiring manager. They want to see that my portfolio looks professional and there's nothing ugly and my background lines up with what the hiring manager said they were looking for. We need to ensure we aren't overwhelming this persona by over-using technical jargon. We just need to be sure that if a non-technical recruiter or HR person was quickly scanning the page, they'd say "looks like they've got plenty of solid UX experience, I'll pass it along to the hiring manager, they'll know what specifics to look for."
 - Identified Pains: 
     - Their current design/product function is a bottleneck. They are losing money and market share due to poor user experience, inefficient workflows (DesignOps), or an inability to hire and retain senior talent.
     - They may be under pressure to create consistency and efficiency across a large platform/org and need an efficient operator who can build and manage the infrastructure that makes great design possible at scale.

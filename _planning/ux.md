@@ -375,3 +375,98 @@ This plan outlines the conversion of the current Notion page content into a fina
     - **Recent Wins (Expanded Summaries):**
         - **Reason for Removal (from this page):** This section, as written, creates critical redundancy. It competes directly with your "Featured Work" gallery and adds significant length and cognitive load to the page.
         - **Strategic Repurposing:** The content here is **excellent**—it's your most powerful asset. However, it should not live on this landing page. This content **IS** your detailed case study. Each "Recent Win" should be its own page, linked from the corresponding card in the "Featured Work" gallery. This creates a clean, professional portfolio structure: **Gallery on the main page -> Detailed, impact-driven case study on a sub-page.** This is the standard and most effective way to present a portfolio.
+
+
+## Proposed Updates to improve my appeal for Systems Design Roles (comments located in quote sections)
+
+
+### **Section 1: Hero**
+
+# Experience. Design. Systems.
+
+From startups to enterprise orgs like Apple, Verizon and Xerox, I create intuitive products and scalable systems to eliminate friction between design, product and engineering. I can lead, fill gaps, or coach you to the next level.
+
+-   Rationale:
+    - I considered replacing the H1 to include automation as a core competency. Something like "Design. Systems. Automation." But I don't think it's as strong. It reads as "Design systems automation" which is such a specific offering to be the heading of my UX portfolio. The issue with this is that I'm now missing any mention of automation, but maybe it's better suited to only be explicitly prioritized for the techOps landing page, and less prioritized here, and only hinted at in bizSystems.
+    - I like this because it gives me two lanes and three services in plain language.
+        Two lanes:
+        - "I make intuitive products": individual contributor roles in UX/UI or product design
+        - "I make scalable systems to eliminate friction between design, product and engineering": I make SYSTEMS. General. Systems design. Tooling. Automation. Workflows. Workshop facilitation potential. Consulting potential. Easy pitch for playbooks: "let's make YOUR system. It will be fine tuned to your team and needs based on my time with you." Leaders with ego will like being able to say "we have a system", something they can enforce and judge performance based on compliance to "our established system".
+        Three services:
+        1. "I can lead": Leadership or administrative   background roles that aren't seen as individual contributor.
+        2. "I can fill gaps": Individual contributor roles, but also could refer to staffing. Long-term I want to offer staffing as a consultancy or agency. I like that the wording attacks both so that the phrasing works whether I fill the role myself or I contract it out. Either way, I'm filling gaps for you. Filling gaps can also be more generic "we're in a trnasitional period and need help through this rough patch", helping during a tough time, a gap in their normal processes, or the gap between systems before the new roll-out etc.
+        3. "I can coach you to the next level": Coaching, consulting, workshop faciltation, retainer or fractional leadership roles. The only thing that's not as strong in this is I'd like to always consistently use "us" and "we" framing whenever possible. I'm not helping your product make more money, WE'RE enabling OUR team to perfect OUR collaborative approach, further improving the quality that OUR work is known for.
+
+### Section 2: The Portfolio (No Major Copy Changes)
+
+- Component Type: Portfolio Gallery
+- Intention: This remains critical. It provides the immediate proof required for a portfolio page. No immediate changes to copy are needed here (mostly just formatting changes when we migrate to Hugo). Ensure case studies (the destination pages) are framed with the language of systems and operational impact.
+
+### Section 3: The System Behind the Work (Revision needed)
+
+- Intention: This is the most important area for driving realconverstion, getting our two primary personas for this page to find the lead magnet designed for them specifically. The HR gatekeeper and the Hiring manager. But we also need to make some revisions to more explicitly address the responsibilities lrelated to design system development, governance, tooling, and AI-powered acceleration.
+
+- Old Copy:
+    
+    # Product slows. UX chases tickets. Docs fall behind.
+    
+    It’s not just about clean design. It’s scalable systems to support your team when it matters most.
+    
+    ### UX / Product
+    
+    - Build teams to scale without chaos.
+    - Governance, onboarding, and rituals that work from day one.
+    - [Support & resources for recruiters without the technical jargon](linkToLeadMagnetforHRAndRecruiters)
+    
+    ### UX Design / Ops
+    
+    - Clarity across research, design, and dev.
+    - Scalable agile workflows, design systems, tooling.
+    - Docs that stay useful. No more Slack archaeology.
+    
+    ### Audits / Facilitation
+    
+    - MVP Sprints: From ideation to active user data in a week.
+    - [UX Maturity audits: Uncover growth potential in your org.](linkToLeadMagnetForHiringManagers)
+    - Dual-track agile UX + embedded coaching.
+
+- New Copy:
+    # Your design system is drifting. Your engineers are frustrated.
+    
+    Inconsistency slows development, kills velocity, and burns your best talent. A world-class design system isn't a component library; it's a managed product that serves your designers and developers. Here's how I build it:
+
+    ### 1. Vision, Strategy, & Roadmap
+    
+    I define the system's vision and own the roadmap and backlog. I establish scalable governance models and contribution workflows that drive adoption and consistency, ensuring the system evolves with the business.
+
+    ### 2. AI-Accelerated Development & Tooling
+    I leverage modern tooling to close the gap between design and code. This includes using AI for documentation and code generation (**ChatGPT/Copilot**), Figma-to-code pipelines (**Builder.io**), and automated accessibility testing (**Stark/Contrast**) to accelerate development and ensure parity.
+
+    ### 3. Documentation, Mentorship, & Adoption
+    A system is useless if no one uses it. I deliver high-quality documentation, create internal education materials, and act as a subject matter expert to evangelize the system's value and mentor product teams on best practices.
+
+- Rationale:
+    1. New Headline: The new headline speaks directly to the core pain of the hiring manager. "Design system is drifting" is a phrase they have likely said or thought.
+    2. Reframed Services: The three columns are now explicitly mapped to the core responsibilities of the job description: **Strategy** (Roadmap, Governance), **Tooling** (AI, Figma-to-code), and **Adoption** (Docs, Mentorship).
+    3. Keyword Integration: We've injected the specific AI tools (Builder.io, Copilot, Stark) mentioned in the job description. This signals direct, tangible experience and shows you are not just aware of the trend but have hands-on knowledge.
+
+### Section 4 & 5: Targeted Conversion & Social Proof (No Change)
+
+-   Your dual CTA and testimonials sections are still highly effective and require no changes. They serve their purpose of lead capture and building trust.
+
+### Future: Ideas for the case studies
+
+Your "Recent Wins" content, which you've wisely decided to move to individual case study pages, is your next point of leverage. Before you apply, ensure the following:
+
+1. Re-frame the Xerox Story: Your Xerox case study is perfect. Frame it as a **DesignOps** and **Systemization** win.
+    - Headline: "Cutting the Design-to-Dev Feedback Cycle in half at Xerox."
+    - Problem: Explicitly mention the lack of a "shared visual and interaction language" and "scattered tools" leading to a 6+ week feedback loop.
+    - Action: Detail how you "audited pipelines," "rolled out modular design systems," and "standardized feedback flows." This is the language of a systems designer.
+    - Impact: Quantify the result: "Cut feedback cycles by 80%, enabling devs to ship faster with less rework."
+
+2. Create an "AI in DesignOps" Mini-Case Study: You need a specific proof point for the AI requirement. This doesn't have to be a massive project. It can be a "Recent Win" about a smaller-scale intervention.
+    - Example Narrative: "At Monroe Community College, manual administrative work was causing burnout. I audited their workflows and used Google Apps Script to automate scheduling and grading. While simple, this project demonstrates the core principle of my work: find the highest-leverage point of friction and apply a systemic, automated solution to eliminate it. The same principle applies when using GitHub Copilot to generate documentation for a design system or using Builder.io to accelerate prototyping—it's about building systems that free up human talent."
+
+
+
+
