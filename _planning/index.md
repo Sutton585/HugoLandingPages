@@ -20,7 +20,7 @@ This plan outlines the conversion of the current Notion page content into a fina
 ## Current Notion Version
 
     
-    Home page: Triage (comments in quote sections)
+    index: Home page persona Triage (comments in quote sections)
     
     > start of title and hero section
     > 
@@ -170,7 +170,7 @@ This plan outlines the conversion of the current Notion page content into a fina
 ## Proposed improved version to consider
 
     
-    ## Page: /home (The Triage Hub)
+    ## Page: /index (The Triage Hub)
     
     ### **Strategic Function**
     
