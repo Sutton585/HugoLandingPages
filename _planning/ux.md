@@ -413,19 +413,16 @@ From startups to enterprise orgs like Apple, Verizon and Xerox, I create intuiti
     It’s not just about clean design. It’s scalable systems to support your team when it matters most.
     
     ### UX / Product
-    
     - Build teams to scale without chaos.
     - Governance, onboarding, and rituals that work from day one.
     - [Support & resources for recruiters without the technical jargon](linkToLeadMagnetforHRAndRecruiters)
     
     ### UX Design / Ops
-    
     - Clarity across research, design, and dev.
     - Scalable agile workflows, design systems, tooling.
     - Docs that stay useful. No more Slack archaeology.
     
     ### Audits / Facilitation
-    
     - MVP Sprints: From ideation to active user data in a week.
     - [UX Maturity audits: Uncover growth potential in your org.](linkToLeadMagnetForHiringManagers)
     - Dual-track agile UX + embedded coaching.
@@ -468,5 +465,45 @@ Your "Recent Wins" content, which you've wisely decided to move to individual ca
     - Example Narrative: "At Monroe Community College, manual administrative work was causing burnout. I audited their workflows and used Google Apps Script to automate scheduling and grading. While simple, this project demonstrates the core principle of my work: find the highest-leverage point of friction and apply a systemic, automated solution to eliminate it. The same principle applies when using GitHub Copilot to generate documentation for a design system or using Builder.io to accelerate prototyping—it's about building systems that free up human talent."
 
 
+# ideas for section 3
 
+# card 1:
+## Intuitive Product Experience
+Description goes here.
+- User Experience Design
+- UX Research
+- Rapid Prototyping
+- Individual Contributor UX and Product Design
+- Staffing, team design, composition, balance
+- Documentation, Mentorship, & Adoption
 
+# card 2:
+## Design Operations and Systems 
+I define the system's vision and own the roadmap and backlog. I establish scalable governance models and contribution workflows that drive adoption and consistency, ensuring the system evolves with the business. Close the gap between design and code; accelerate development and ensure parity.
+- documentation 
+- AI-Accelerated Development & Tooling
+- Figma-to-code pipelines
+- automated accessibility testing
+- Build teams to scale without chaos.
+- Clarity across research, design, and dev.
+- Governance, onboarding, and rituals that work from day one.
+- Scalable agile workflows, design systems, tooling.
+- Docs that stay useful. No more Slack archaeology.
+- Design Ops
+- Design Systems
+- Design Leadership
+- Workflow Design and Optimization
+- Agile Implementation Playbooks
+- Developer Support
+- Automation and AI Integrations
+
+# card 3:
+## Leadership, Consulting, Teaching, Coaching, Auditing, Playbooks
+A system is useless if no one uses it. I deliver high-quality documentation, create internal education materials, and act as a subject matter expert to evangelize the system's value and mentor product teams on best practices.
+- Orgnanizational UX Maturity Audit and Strategy for capacity improvements
+- [Support & resources for recruiters without the technical jargon](linkToLeadMagnetforHRAndRecruiters)
+- Workshops, training, facilitation
+- Rapid MVP development workshop: MVP Sprints: From ideation to active user data in a week.
+- [UX Maturity audits: Uncover growth potential in your org.](linkToLeadMagnetForHiringManagers)
+    Orgnanizational UX Maturity Audit and Strategy for capacity improvements
+- Dual-track agile UX + embedded coaching.
